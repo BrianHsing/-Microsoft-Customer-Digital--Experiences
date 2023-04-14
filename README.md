@@ -4,7 +4,7 @@
 
 
 在實務上，我們常需要針對 Microsoft 365 的服務進行相關的測試，在過去我們可以透過申請[Office 365 E5 免費試用](https://www.microsoft.com/zh-tw/microsoft-365/enterprise/office-365-e5?activetab=pivot:overviewtab)的方式，針對特定的功能服務的驗證與測試，缺點是使用週期只有 30 天，並且也不適合作為教學的環境。<br>
- ![GITHUB](https://github.com/BrianHsing/Microsoft-Customer-Digital-Experiences/blob/master/Images/image1-1.png "image1")<br>
+ ![GITHUB](Images/image1-1.png "image1")<br>
 
 可以利用微軟提供的 [Microsoft Customer Digital Experiences](https://cdx.transform.microsoft.com/)，簡稱 CDX，這裡主要提供三種類型，如 Demo 展示環境、互動式的操作指南以及客戶沉浸式的操作體驗。<br>
 
